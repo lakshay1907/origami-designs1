@@ -1,0 +1,38 @@
+h1 {
+    display: flex;
+    color:black;
+   }
+   .heading{
+       display: flex;
+       border: solid;
+       background-color: aquamarine;
+       justify-content: space-around;
+       align-self: center ;
+
+   }
+   .grid2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+    border:solid turquoise;
+    
+   }
+   .grid1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+    border:solid turquoise;
+  
+   }
+   .grid{
+    border:solid turquoise;
+   }
+   .footer{
+       display: flex;
+       justify-content: flex-end;
+   }
+           
+        
+      
